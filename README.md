@@ -1,6 +1,6 @@
 ###We Will Be Back Soon.... 🔜
 ### Welcome To My Github 懶
-### In My Github You Can See  lots Of Repostitories
+### In My Github You Can See  lots Of repositories
 ### My  Repositories are For Cracking - Hacking - Encrypt And Decrypt - Tools For Learning
 ### Language - Python 
 ### Im Black Hat 
