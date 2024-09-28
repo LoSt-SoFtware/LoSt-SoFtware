@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+lost+software!;" />
 </h1>
 
-<h3 align="center">a begginer software developer from kurdistan 🇨🇦</h3>
+<h3 align="center">a begginer software developer from kurdistan </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **python, frontend, **
 
-💬 Ask me about ** anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about ** anything [here](https://www.instagram.com/lo1stt)**
 
 
 
@@ -27,14 +27,6 @@
   <a href="https://www.instagram.com/lo1stt"<html lang="en">
 
 
-</div>
-
- <hr/>
- 
-
-</div>
-
-<hr/>
 
 
 
