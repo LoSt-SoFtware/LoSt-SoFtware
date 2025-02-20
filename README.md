@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning python, frontend, 
 
-💬 Ask me about  anything [here](https://www.instagram.com/lo1stt)
+💬 Ask me about  anything [here](https://www.instagram.com/l01stt)
 
 
 
